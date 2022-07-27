@@ -1,6 +1,6 @@
 # Interactive Multiplanar Reformatting
 
-Find this icon on the toolbar:  ![](/Volumes/AvanT5/Devel/gitnotes/3dslicer-tips/basic/figs/mpr_icon.png)
+Find this icon on the toolbar: ![](figs/mpr_icon.png)
 
 Clicking this icon will show crossbars on each views. Each crossbar line has a color corresponding to the view's color.
 
