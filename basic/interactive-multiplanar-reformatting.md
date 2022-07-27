@@ -6,7 +6,7 @@ Clicking this icon will show crossbars on each views. Each crossbar line has a c
 
 ![](figs/mpr_default_crossbars.png)
 
-To activate the interactive crossbars, click the checkmark. You can also limit the interactions either or both for translation and rotation.
+To activate the interactive crossbars, click the checkmark by showing a popmenu (press the arrow next to the icon). You can also limit the interactions either or both for translation and rotation.
 
 ![](figs/mpr_menu.png)
 
