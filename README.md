@@ -9,7 +9,7 @@ A collection of tips when using [3D Slicer tool](https://www.slicer.org/), becau
 ## Basic
 
 * [Show image slices on the 3D view](basic/show-images-slices-on-3d.md)
-* Adjust 3D objects transparency
+* [Adjust 3D objects transparency](basic/adjust-3d-opacity.md)
 
 ## Navigations
 
